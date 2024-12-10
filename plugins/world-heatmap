@@ -1,2 +1,3 @@
 repository=https://github.com/GrandTheftWalrus/RuneLite-World-Heatmap.git
-commit=f40c3a73d0fc7c8001bbcaa0d66f54921ab33825
+commit=bcd8c93377c7f711c3259dd026b3ed242e37e8ab
+warning=By default (but with the option to opt-out), this plugin uploads anonymized user data to the global heatmap at osrsworldheatmap.com. User data is only displayed on the website in aggregate with global user data, and account IDs are stored hashed.
